@@ -86,19 +86,18 @@ public class ArghyajitMukherjee {
 ---
 
 ## 📈 GitHub Statistics
-
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArghyajitMukherjee&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF9900&icon_color=FF9900" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArghyajitMukherjee&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF9900" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArghyajitMukherjee&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF9900&icon_color=FF9900&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArghyajitMukherjee&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF9900&count_private=true" />
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ArghyajitMukherjee&theme=dark&hide_border=true&background=0D1117&ring=FF9900&fire=FF9900&currStreakLabel=FF9900" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=ArghyajitMukherjee&theme=dark&hide_border=true&background=0D1117&ring=FF9900&fire=FF9900&currStreakLabel=FF9900" alt="Streak" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArghyajitMukherjee&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF9900&line=FF9900" />
-</div>
+</div
 
 ---
 
