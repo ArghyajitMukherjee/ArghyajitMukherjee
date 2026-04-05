@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF9900&center=true&vCenter=true&width=650&lines=Hey+There!+I'm+Arghyajit+%F0%9F%91%8B;AWS+Cloud+Architect+%E2%98%81%EF%B8%8F;Machine+Learning+Engineer+%F0%9F%A4%96;Java+Backend+Developer+%F0%9F%8C%8F;Building+Intelligent+Cloud+Systems+%F0%9F%9A%80)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Arghyajit%20Mukherjee&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AWS%20%7C%20Machine%20Learning%20%7C%20Java%20Developer&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Arghyajit%20Mukherjee&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AWS%20%7C%20Web%20Developer%20%7C%20Java%20Developer&descAlignY=55&descAlign=50" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ArghyajitMukherjee&label=Profile%20views&color=FF9900&style=for-the-badge" alt="profile views" />
@@ -21,9 +21,9 @@ public class ArghyajitMukherjee {
     String name       = "Arghyajit Mukherjee";
     String role       = "AWS Cloud Architect & ML Engineer";
     String location   = "📍 India";
-    String[] stack    = {"AWS", "Java", "Machine Learning", "Spring Boot"};
-    String[] learning = {"AWS Solutions Architect", "Deep Learning", "Spring Boot"};
-    String currently  = "Building AWS cloud architectures & ML models";
+    String[] stack    = {"AWS", "Java", "Full Stack Developer", "Spring Boot"};
+    String[] learning = {"AWS Solutions Architect", "FastAPI", "Spring Boot"};
+    String currently  = "Building AWS cloud architectures & Creative Websites";
     String openTo     = "Open-source ML, AWS cloud & Java backend projects";
 
     String funFact() {
@@ -43,11 +43,11 @@ public class ArghyajitMukherjee {
 
 | | |
 |:--|:--|
-| 🔭 **Working On** | AWS cloud architectures, ML models & Java applications |
-| 👯 **Collaborate On** | Open-source ML, AWS cloud solutions & Java backend projects |
-| 🤝 **Looking For Help** | Scaling ML pipelines on AWS & advanced Java design patterns |
-| 🌱 **Currently Learning** | AWS Solutions Architect, Deep Learning & Spring Boot |
-| 💬 **Ask Me About** | AWS, Machine Learning, Java, Cloud Architecture & Data Science |
+| 🔭 **Working On** | AWS cloud architectures, Fullstack Development & Java applications |
+| 👯 **Collaborate On** | Fullstack Websites, AWS cloud solutions & Java backend projects |
+| 🤝 **Looking For Help** | Scaling on AWS & advanced Java design patterns |
+| 🌱 **Currently Learning** | AWS Solutions Architect, FastAPI & Spring Boot |
+| 💬 **Ask Me About** | AWS, Web Development, Java, Cloud Architecture & Data Science |
 | ⚡ **Fun Fact** | The best code runs on the cloud and thinks on its own 🚀 |
 
 ---
