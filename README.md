@@ -13,6 +13,7 @@
 
 ---
 
+
 ## ☁️ About Me
 
 ```java
@@ -53,6 +54,8 @@ public class ArghyajitMukherjee {
         System.out.println(me.funFact());
     }
 }
+```
+---
 
 ## 🎯 Quick Info
 
@@ -66,6 +69,7 @@ public class ArghyajitMukherjee {
 | ⚡ **Fun Fact** | I enjoy building things that occasionally work on the first try 🚀 |
 
 ---
+
 ## 🛠 Tech Stack
 
 <div align="center">
